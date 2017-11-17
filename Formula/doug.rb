@@ -1,7 +1,7 @@
 class Doug < Formula
   desc "Command line tool for time tracking"
   homepage "https://github.com/getdoug/doug"
-  url "https://github.com/getdoug/doug/archive/1.2.1.tar.gz"
+  url "https://github.com/getdoug/doug/archive/1.2.2.tar.gz"
   sha256 ""
   head "https://github.com/getdoug/doug.git"
 
